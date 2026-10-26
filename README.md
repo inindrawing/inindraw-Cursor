@@ -9,9 +9,6 @@ Feel free to download and use these cursors for personal use!
 
 Both versions are available for download and personal use.
 
-### Tools
-- **Aseprite** – Pixel art creation
-
 ### Preview
 - Animated Cursor (.ani)
 
