@@ -5,3 +5,6 @@ Feel free to download and use these cursors for personal use!
 
 ### Tools
 - **Aseprite** – Pixel art creation
+
+### Preview
+![Cursor Preview](assets/preview.gif)
